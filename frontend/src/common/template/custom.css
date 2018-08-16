@@ -1,0 +1,29 @@
+.main-footer {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+button {
+    margin-left: 5px;
+}
+
+.table-actions {
+    width: 150px;
+}
+
+.grid-top-space {
+    margin-top: 15px;
+}
+
+.thead-border-bottom tr th {
+    border-bottom: none !important;
+}
+
+.tbody-border-top tr td {
+    border-top: none !important;
+}
+
+.border-top-none {
+    border-top: none !important;
+}
